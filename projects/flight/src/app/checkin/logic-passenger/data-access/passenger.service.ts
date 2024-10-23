@@ -9,7 +9,7 @@ import { Passenger } from "../model/passenger";
 })
 export class PassengerService {
   passengers: Passenger[] = [];
-  private baseUrl = `https://demo.angulararchitects.io/api`;
+  private baseUrl = `/api`;
 
   constructor(private http: HttpClient) {}
 

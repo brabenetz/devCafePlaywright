@@ -11,7 +11,7 @@ export class FlightService {
   flights: Flight[] = [];
   private flightsCountState = new BehaviorSubject<number>(0);
   flightsCount$ = this.flightsCountState.asObservable();
-  private baseUrl = `https://demo.angulararchitects.io/api`;
+  private baseUrl = `/api`;
 
   constructor(private http: HttpClient) {}
 
