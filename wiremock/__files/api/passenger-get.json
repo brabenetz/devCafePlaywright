@@ -1,0 +1,122 @@
+[
+  {
+    "id": 2961,
+    "name": "Smith",
+    "firstName": "Emma",
+    "bonusMiles": 115972,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 2985,
+    "name": "Smith",
+    "firstName": "Mia",
+    "bonusMiles": 373984,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3009,
+    "name": "Smith",
+    "firstName": "Hanna",
+    "bonusMiles": 101193,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3033,
+    "name": "Smith",
+    "firstName": "Emilia",
+    "bonusMiles": 197315,
+    "passengerStatus": "B",
+    "flightBookings": []
+  },
+  {
+    "id": 3057,
+    "name": "Smith",
+    "firstName": "Sofia",
+    "bonusMiles": 281191,
+    "passengerStatus": "B",
+    "flightBookings": []
+  },
+  {
+    "id": 3081,
+    "name": "Smith",
+    "firstName": "Lina",
+    "bonusMiles": 111949,
+    "passengerStatus": "B",
+    "flightBookings": []
+  },
+  {
+    "id": 3105,
+    "name": "Smith",
+    "firstName": "Anna",
+    "bonusMiles": 151483,
+    "passengerStatus": "B",
+    "flightBookings": []
+  },
+  {
+    "id": 3129,
+    "name": "Smith",
+    "firstName": "Ben",
+    "bonusMiles": 306362,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3153,
+    "name": "Smith",
+    "firstName": "Paul",
+    "bonusMiles": 186228,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3177,
+    "name": "Smith",
+    "firstName": "Leon",
+    "bonusMiles": 136433,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3201,
+    "name": "Smith",
+    "firstName": "Finn",
+    "bonusMiles": 498730,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3225,
+    "name": "Smith",
+    "firstName": "Elias",
+    "bonusMiles": 164737,
+    "passengerStatus": "B",
+    "flightBookings": []
+  },
+  {
+    "id": 3249,
+    "name": "Smith",
+    "firstName": "Jonas",
+    "bonusMiles": 396923,
+    "passengerStatus": "B",
+    "flightBookings": []
+  },
+  {
+    "id": 3273,
+    "name": "Smith",
+    "firstName": "Luis",
+    "bonusMiles": 22928,
+    "passengerStatus": "A",
+    "flightBookings": []
+  },
+  {
+    "id": 3297,
+    "name": "Smith",
+    "firstName": "Noah",
+    "bonusMiles": 461407,
+    "passengerStatus": "B",
+    "flightBookings": []
+  }
+]

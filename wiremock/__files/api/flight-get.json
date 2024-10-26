@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1270,
+    "from": "London",
+    "to": "New York",
+    "date": "2024-10-25T23:49:39.6922717+00:00",
+    "delayed": false,
+    "flightBookings": []
+  },
+  {
+    "id": 1271,
+    "from": "London",
+    "to": "New York",
+    "date": "2024-10-26T23:49:39.692272+00:00",
+    "delayed": true,
+    "flightBookings": []
+  }
+]

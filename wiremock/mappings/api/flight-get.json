@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPattern": "/api/flight.*"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "api/flight-get.json"
+    },
+    "priority": 10
+}
