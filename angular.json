@@ -88,6 +88,7 @@
               "zone.js/testing"
             ],
             "tsConfig": "projects/flight/tsconfig.spec.json",
+            "codeCoverage": true,
             "inlineStyleLanguage": "scss",
             "assets": [
               {
@@ -98,7 +99,8 @@
             "styles": [
               "projects/flight/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "karmaConfig": "projects/flight/karma.conf.js"
           }
         }
       }
